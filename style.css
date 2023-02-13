@@ -1,0 +1,20 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+
+
+#service{
+    
+    background-image: url(images/cta-bg.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.call{
+    background-color: red;
+    opacity: 0.9;
+}
+
